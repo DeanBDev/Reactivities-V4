@@ -4,6 +4,7 @@
     "@emotion/styled": "^11.14.1",
     "@fontsource/roboto": "^5.2.6",
     "@mui/icons-material": "^7.1.2",
-    "@mui/material": "^7.1.2"
+    "@mui/material": "^7.1.2",
+    "@tanstack/react-query-devtools": "^5.90.2"
   }
 }
